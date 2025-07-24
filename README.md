@@ -26,7 +26,8 @@ inconvenient and time consuming, especially for long strong password strings.
 2. Run this script in PowerShell.
 3. Enter wait time or continue with default value, 5 seconds. It will wait for this specified time before
    starting to paste.
-4. The script will simulate key presses for each character in the clipboard text.
+4. Switch to the application you want which to receive the keypresses.
+5. The script will simulate key presses for each character in the clipboard text.
 
 ## Requirements
 - PowerShell 5.0 or later
