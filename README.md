@@ -11,6 +11,8 @@
 >License: MIT License
 >This script is provided "as is" without warranty of any kind, either expressed or implied.
 
+<img width="1362" height="762" alt="image" src="https://github.com/user-attachments/assets/dbdc010b-6600-4cae-bb84-a7c631faa496" />
+
 ## Description
 PowerShell script, reads the current clipboard text content and simulates key presses for each character.
 
